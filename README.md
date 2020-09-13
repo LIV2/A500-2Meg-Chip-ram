@@ -28,7 +28,7 @@ If you will be soldering to the Amiga rather than using sockets, I would recomme
    * JP5 Top left pad (A500 Rev 6)
 10. Make sure that JP2 is set as shown:<br/>
 ![jp2](Images/JP2.png?raw=True)
-11. Carefully desoder & remove the Agnus socket
+11. Carefully desolder & remove the Agnus socket
 12. Remove the same corner pin from each pin socket and solder them in replacing the agnus socket
 13. Insert the adapter, look from the sides to make sure the pins are going in to the headers<br />
 ![installed](Images/installed.jpg?raw=True)
