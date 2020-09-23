@@ -30,7 +30,10 @@ If you will be soldering to the Amiga rather than using sockets, I would recomme
 ![jp2](Images/JP2.png?raw=True)
 11. Carefully desolder & remove the Agnus socket
 12. Remove the same corner pin from each pin socket and solder them in replacing the agnus socket
-13. Insert the adapter, look from the sides to make sure the pins are going in to the headers<br />
+13. Insert the adapter
+**To make sure it is installed the correct way, pay attention to the marking of "1" on the PCB and on the Amiga they must match**<br />
+On a Rev 6A Amiga 500 this means that the ram will be on the right hand side, on a Rev 5 it will be pointing downwards instead.<br />
+look from the sides to make sure the pins are going in to the headers<br />
 ![installed](Images/installed.jpg?raw=True)
 
 ## Jumper Settings
