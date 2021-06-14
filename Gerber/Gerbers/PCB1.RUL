@@ -1,4 +1,4 @@
-DRC Rules Export File for PCB: C:\ProgramData\Altium\CircuitMaker {0C27520B-6165-4CC0-A894-E2CEC9A420C8}\Projects\9F2A2FF7-EBF2-4E61-8DD4-3DEAB783A5D4\d8677989-931f-4f06-a82d-ea79070afaae\PCB1.CMPcbDoc
+DRC Rules Export File for PCB: C:\ProgramData\Altium\CircuitMaker {0C27520B-6165-4CC0-A894-E2CEC9A420C8}\Projects\9F2A2FF7-EBF2-4E61-8DD4-3DEAB783A5D4\11cf20de-d007-484b-870c-544736a7a3d5\PCB1.CMPcbDoc
 RuleKind=ShortCircuit|RuleName=J3|Scope=Board|Allowed=1
 RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
 RuleKind=ShortCircuit|RuleName=J1|Scope=Board|Allowed=1
