@@ -2,7 +2,7 @@
 
 This is an adapter board to retrofit a 2MB Agnus into an Amiga 500/2000 and also includes 2MB of chip ram
 
-This board requires you to remove the agnus socket and replace with pinheaders, but a version that uses an (expensive!) PLCC plug is available [Here](https://github.com/LIV2/A500-2Meg-Chip-ram/tree/PLCC)
+### A version that uses an (expensive!) PLCC plug instead of pinheaders is available [Here](https://github.com/LIV2/A500-2Meg-Chip-ram/tree/PLCC)
 
 ![PCB Top](Images/top.png?raw=True)
 ![PCB Bottom](Images/bottom.png?raw=True)
