@@ -22,7 +22,7 @@ This is an adapter board to retrofit a 2MB Agnus into an Amiga 500/2000 and also
 ## Jumper Settings
 The default jumper settings do not need to be changed and will work on all systems. 
 
-The multiplexer at U4 is optional, if you decide not to fit this you can cut & set the 28M/MUX jumper to MUX.
+The multiplexer at U4 is optional, if you decide not to fit this you can cut & set the 28M/MUX jumper to 28M.
 
 Rev 6A Amiga 500's have jumpers that can be used to provide the A20 signal on pin 35 instead of XCLK
 This allows us to use this adapter without having to add the wire to A20 but note **this will mean you cannot use a genlock on this Amiga!**
