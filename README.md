@@ -50,5 +50,5 @@ If you wish to do this then you will also need to change the jumper settings at 
 |74AHC1G08 Single 2-Input AND Gate, SOT-23-5|U3|1|[Mouser](https://www.mouser.com/ProductDetail/595-SN74AHC1G08DBVR)||
 |74AHCT158 Quad 2-input Multiplexer, SOIC-16|U4|1|[Mouser](https://www.mouser.com/ProductDetail/595-SN74AHCT158D)|Optional, set J1 to "28M" to bypass|
 |PLCC-84 Socket, SMD|U1|1|[Mouser](https://www.mouser.com/ProductDetail/517-8484-21B1-RK-TP)||
-|PLCC-84 SMD Plug||1|[Adapt-Plus](https://www.adapt-plus.com/products_html/apw9328-zc160.html)<br>[RS-Components](https://uk.rs-online.com/web/p/ic-socket-adapters/7419684/)||
+|PLCC-84 SMD Plug||1|[jbilanders PLCC-84 Plug](https://github.com/jbilander/PLCC-84-plug)<br>[Adapt-Plus](https://www.adapt-plus.com/products_html/apw9328-zc160.html)<br>[RS-Components](https://uk.rs-online.com/web/p/ic-socket-adapters/7419684/)||
 |5V, 1Mx16 EDO/FPM DRAM, SOJ-42<br>- K4F151611<br>- K4E151611<br>- GM71C18163C<br>- AS4C1M16E5|U2|1|eBay, Aliexpress etc||
