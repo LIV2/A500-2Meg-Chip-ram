@@ -52,6 +52,9 @@ Solder a wire to A20 and connect the other end at one of the following locations
    * Also available from a via next to the power connector as indicated here:  
    ![a20_via](Images/A2000_A20_VIA.png?raw=True)
 
+### A1000 Rejuvinator
+A20 is available from Pin 15 of U28 on the Rejuvinator
+
 ## Jumper Settings
 The default jumper settings do not need to be changed and will work on all systems. 
 
