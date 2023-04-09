@@ -44,7 +44,8 @@ If you wish to do this then you will also need to change the jumper settings at 
 ## Bill of materials
 |Component|Location|QTY|Link|Notes|
 |---------|--------|---|----|-----|
-|Ceramic Capacitor, 0.1uF, 0805|C1-5,C7|6|[Mouser](https://www.mouser.com/ProductDetail/710-885012207098)||
+|Ceramic Capacitor, 0.1uF, 0805|C1-5|5|[Mouser](https://www.mouser.com/ProductDetail/710-885012207098)||
+|Ceramic Capacitor, 0.1uF, 0805|C7/VBB|1|[Mouser](https://www.mouser.com/ProductDetail/710-885012207098)|Optional: Fit for VBB Agnus only|
 |Ceramic Capacitor, 22pF, 0805|C6|1|[Mouser](https://www.mouser.com/ProductDetail/710-885012007053) ||
 |Resistor, 150 Ohm, 0805|R1|1|[Mouser](https://www.mouser.se/ProductDetail/652-CR0805JW-151ELF)||
 |74AHC1G08 Single 2-Input AND Gate, SOT-23-5|U3|1|[Mouser](https://www.mouser.com/ProductDetail/595-SN74AHC1G08DBVR)||
