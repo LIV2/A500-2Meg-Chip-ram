@@ -1,0 +1,16 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+A20,A20,PinHeader_1x01_P2.54mm_Horizontal,37.846,73.025,90.0,top
+C1,0.1uF,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,81.75,70.711,90.0,bottom
+C2,0.1uF,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,83.3,48.7,90.0,bottom
+C3,0.1uF,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,78.4725,73.88,180.0,bottom
+C4,0.1uF,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,78.4725,67.49,180.0,bottom
+C5,0.1uF,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,78.4725,48.32,180.0,bottom
+C6,22pF,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,92.8,81.7,0.0,bottom
+C7,0.1uF,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,38.05,62.0964,90.0,bottom
+R1,150,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,92.8,78.95,0.0,bottom
+U1,Agnus 8375,PLCC-84,58.0484,62.868605,-90.0,top
+U11,Agnus 8372,PLCC-84_Plug_P1.27mm_mirrored,58.0384,62.868605,0.0,bottom
+U2,1Mx16 DRAM SOJ-42,SOJ42,87.122,62.484,0.0,top
+U3,74AHC1G08,SOT-23-5_HandSoldering,87.2,48.8,0.0,bottom
+U4,74AHCT158D,JEITA_SOIC-16_3.9x9.9mm_P1.27mm,87.2875,67.316,0.0,bottom
+U5,SN74LVC2G157DCTR,SSOP-8_2.95x2.8mm_P0.65mm,87.05,67.311,90.0,bottom
